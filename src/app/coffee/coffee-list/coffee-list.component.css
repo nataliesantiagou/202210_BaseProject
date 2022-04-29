@@ -11,6 +11,10 @@
     margin-bottom: 41px;
 }
 
+.container-coffee-list .banner-img img {
+  width: 100%;
+}
+
 .container-coffee-list .container-list .table {
     width: 56%;
 }
