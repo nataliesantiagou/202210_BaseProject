@@ -1,3 +1,24 @@
 * [lang^=en] {
   color: green;
 }
+
+.container-coffee-list {
+  padding: 25px 7%;
+  margin-bottom: 50px;
+}
+
+.container-coffee-list h1 {
+  font-family: 'Indie Flower', sans-serif;
+}
+
+.container-coffee-list .banner-img {
+  margin-bottom: 25px;
+}
+
+.container-coffee-list .banner-img img {
+  width: 100%;
+}
+
+footer {
+  margin-bottom: 20px;
+}
