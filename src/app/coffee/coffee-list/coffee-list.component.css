@@ -1,0 +1,25 @@
+.container-coffee-list {
+    padding: 25px 7%;
+}
+
+.container-coffee-list h1 {
+    font-family: 'Indie Flower', sans-serif;
+    margin-bottom: 30px;
+}
+
+.container-coffee-list .banner-img {
+    margin-bottom: 41px;
+}
+
+.container-coffee-list .container-list .table {
+    width: 56%;
+}
+
+.container-coffee-list .container-list .table thead {
+    background-color: #333A40;
+    color: #ffffff;
+}
+
+.container-coffee-list .container-list p {
+    margin: 0;
+}
